@@ -1,0 +1,38 @@
+/* Body to establish background and text color */
+body{
+    background-color: #D1E2C4;
+    color: black;
+    margin-left: 50px;
+}
+/* Nav controls how to the page is displayed */
+nav{
+    position:relative;
+    height: 600px;
+    width: 120px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    background-color: #778A35;
+}
+/* Center justify text and set space for margin */
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+/* Center justify */
+header{
+    text-align: center;
+    background-color:#EBEBE8;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    margin-right: right;
+    text-align: center;
+}
+img {
+    border: 5px solid black;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 5px;
+}
